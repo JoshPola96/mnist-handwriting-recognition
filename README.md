@@ -1,5 +1,7 @@
-# Artificial_Intelligence
-Curriculum Work
+# MNIST-Handwriting-Recognition-using-Deep-Learning
+Curriculum Work/Artificial_Intelligence
+
+#Lasagne, #Theano, #NeuralNetworks
 
 This project is created as per the curriculum requirement for the module Artificial Intelligence: In this project we are attempting to replicate the implementation of Handwriting Recognition techniques using Deep Learning models and lasagna(outdated). The MNIST dataset is used for this purpose.
 
