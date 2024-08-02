@@ -1,13 +1,28 @@
-# MNIST-Handwriting-Recognition-using-Deep-Learning
+# MNIST Handwriting Recognition Using Deep Learning
+
 Curriculum Work/Artificial_Intelligence
 
-#Lasagne, #Theano, #NeuralNetworks
+## Overview
 
-This project is created as per the curriculum requirement for the module Artificial Intelligence: In this project we are attempting to replicate the implementation of Handwriting Recognition techniques using Deep Learning models and lasagna(outdated). The MNIST dataset is used for this purpose.
+This project demonstrates handwriting recognition on the MNIST dataset using deep learning techniques. The neural network is implemented using the Lasagne library and Theano for training and evaluation. This project is part of the curriculum requirement for the Artificial Intelligence module.
 
-Represents in-line comments: # can be ignored.
+## Project Structure
 
+1. **Data Preparation**: Downloads and loads the MNIST dataset.
+2. **Neural Network**: Defines a neural network using Lasagne with dropout regularization.
+3. **Training**: Trains the neural network using the training data.
+4. **Evaluation**: Tests the model on the MNIST test set and calculates accuracy.
 
-Discalimer : Any direct adaptation of the file or the dataset will be given a direct zero marks.
+## Requirements
 
-Contact: Joshua Peter, jppolaprayil1996@gmail.com
+- Python 3.x
+- Lasagne
+- Theano
+- NumPy
+- Matplotlib
+
+## Notes
+
+- **Data**: The MNIST dataset is a collection of handwritten digits commonly used for training image processing systems.
+- **Libraries**: Lasagne and Theano are older libraries. Consider using modern alternatives like TensorFlow or PyTorch for future projects.
+- **Disclaimer**: Any direct adaptation of this project or dataset will be considered a violation of academic integrity policies.
