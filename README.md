@@ -1,5 +1,7 @@
 # MNIST Handwriting Recognition Using Deep Learning
 
+> **Scope** · MSc coursework (Deep Learning) — published as-is.
+
 Curriculum Work/Artificial_Intelligence
 
 ## Overview
